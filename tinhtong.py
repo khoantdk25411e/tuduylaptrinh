@@ -4,3 +4,4 @@ while i<=100:
     tong=tong+i
     i=i+1
 print("Tong la: ",tong)
+abc
